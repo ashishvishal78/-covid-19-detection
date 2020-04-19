@@ -1,4 +1,4 @@
-# -covid-19-detection
+# covid-19-detection
 To make more training data run create_new_image.py.
 To make the model run model.py.
 To predict run testing.py
